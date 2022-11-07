@@ -1,0 +1,23 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url> 
+    <loc>https://kuzmichov123.github.io/index.html </loc> 
+    <lastmod> 2022-10-03</lastmod> 
+    <changefreq>weekly</changefreq> 
+    <priority>1/priority> 
+    </url> 
+ 
+<url> 
+    <loc>https://kuzmichov123.github.io/product.html</loc> 
+    <lastmod> 2022-10-03</lastmod> 
+    <changefreq>weekly</changefreq> 
+    <priority>0.50/priority> 
+    </url> 
+ 
+<url> 
+    <loc>https://kuzmichov123.github.io/contact.html </loc> 
+    <lastmod> 2022-10-03</lastmod> 
+    <changefreq>weekly</changefreq> 
+    <priority>0.80/priority> 
+    </url> 
+ 
+</urlset>
